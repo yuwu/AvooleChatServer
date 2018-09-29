@@ -1,0 +1,33 @@
+*.apk
+*.apk_
+
+.DS_Store
+.metadata
+.metadata/
+*.properties
+.settings/
+
+#files for the dex VM
+*.dex
+
+#java class files
+*.class
+
+bin/
+gen/
+
+local.properties
+
+#eclipse project files
+.classpath
+.project
+
+# android studio
+*.iml
+build
+.gradle/
+.recommenders/
+gradle/
+.idea/
+captures/
+
